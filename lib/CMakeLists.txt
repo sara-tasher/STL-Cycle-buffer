@@ -1,0 +1,1 @@
+add_library(cycle INTERFACE CycleBuffer/CycleBuffer.hpp StaticBuffer/StaticBuffer.hpp CycleBuffer/CycleBuffer.hpp)
